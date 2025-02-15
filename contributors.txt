@@ -12,3 +12,4 @@ Name: Arnav, Roll: 27436, Branch: CSIT, Section: 1, Email: arnav21062006@gmail.c
 Name: Disha, Roll: 27057, Branch: CSE, Section: 1, Email: disha25july@gmail.com
 Name: Tanishq Bhatnagar, Roll: 27177, Branch: CSE, Section: 3, Email: tanishqbhatnagar366@gmail.com
 Name: Krish Jindal, Roll: 27093, Branch: CSE, Section: 2, Email: krish.27093@ggindia.dronacharya.info
+Name: Priyanshi , Roll: 27345,Branch: AIML, Section: 2,Email:priyanshi02112005@gmail.com
