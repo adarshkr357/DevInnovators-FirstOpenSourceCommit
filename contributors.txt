@@ -7,3 +7,4 @@ Name: Akash Nandy, Roll: 27228, Branch: AIML, Section: 1, Email: nandysakash3@gm
 Name: Pragya Gupta, Roll: 27468, Branch: CSIT, Section: 2, Email: gpragya2005@gmail.com
 Name: Aditya Yadav, Roll: 27226, Branch: CSE-AIML, Section: 1, Email: aditya18yadav07@gmail.com
 Name: Anuj Kumar, Roll: 27492, Branch: IOT, Section: 2, Email: nuju18232@gmail.com
+Name: Yuvraj bakshi , Roll: 27490, Branch: CSIT, Section: 2, Email: yuvrajbakshi85@gmail.com
