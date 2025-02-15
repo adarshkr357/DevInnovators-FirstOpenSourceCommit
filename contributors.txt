@@ -4,3 +4,4 @@ Name: Sohan Rout, Roll: 27543, Branch: IOT, Section: 3, Email: sohanrout84@gmail
 Name: Kartik Koundal, Roll: 27085, Branch: CSE, Section: 2, Email: koundal.k29@gmail.com
 Name: Ashmita Bhandari, Roll: 27043, Branch: CSE, Section: 1, Email: ashmitabhn07@gmail.com
 Name: Pragya Gupta, Roll: 27468, Branch: CSIT, Section: 2, Email: gpragya2005@gmail.com
+Name:Anuj kumar , Roll:27492 , Branch:IOT , section:2 , Email:nuju18232@gmail.com
