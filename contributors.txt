@@ -5,5 +5,8 @@ Name: Kartik Koundal, Roll: 27085, Branch: CSE, Section: 2, Email: koundal.k29@g
 Name: Ashmita Bhandari, Roll: 27043, Branch: CSE, Section: 1, Email: ashmitabhn07@gmail.com
 Name: Akash Nandy, Roll: 27228, Branch: AIML, Section: 1, Email: nandysakash3@gmail.com
 Name: Pragya Gupta, Roll: 27468, Branch: CSIT, Section: 2, Email: gpragya2005@gmail.com
-Name: Aditya Yadav, Roll: 27226, Branch: CSE-AIML, Section: 1, Email: aditya18yadav07@gmail.com
+Name: Aditya Yadav, Roll: 27226, Branch: AIML, Section: 1, Email: aditya18yadav07@gmail.com
 Name: Anuj Kumar, Roll: 27492, Branch: IOT, Section: 2, Email: nuju18232@gmail.com
+Name: Taaran, Roll: 27481, Branch: CSIT, Section: 1, Email: taaran06@gmail.com
+Name: Arnav, Roll: 27436, Branch: CSIT, Section: 1, Email: arnav21062006@gmail.com
+Name: Shivang, Roll: 26170, Branch: CSE, Section: 2, Email: shivangjha7@gmail.com
