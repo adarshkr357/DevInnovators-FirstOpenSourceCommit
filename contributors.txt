@@ -10,3 +10,4 @@ Name: Anuj Kumar, Roll: 27492, Branch: IOT, Section: 2, Email: nuju18232@gmail.c
 Name: Taaran, Roll: 27481, Branch: CSIT, Section: 1, Email: taaran06@gmail.com
 Name: Arnav, Roll: 27436, Branch: CSIT, Section: 1, Email: arnav21062006@gmail.com
 Name: Shivang, Roll: 26170, Branch: CSE, Section: 2, Email: shivangjha7@gmail.com
+Name: Harshit Tyagi: Roll: 27508, Branch: IOT, Section: 2, Email:tyagiharshit.0005@gmail.com
