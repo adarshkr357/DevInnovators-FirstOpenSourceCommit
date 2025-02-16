@@ -1,5 +1,5 @@
 Name: Akshit Singh Bhandari, Roll: 27016, Branch: CSE, Section: 1, Email: akshitbhandaricodes@gmail.com
-Name: Himanshu Kaushik, Roll: 27075, Branch: CSE, Section: 2, Email: himanshu.27075@ggindia.dronacharya.info
+Name: Himanshu Kaushik, Roll: 27075, Branch: CSE, Section: 2, Email: himanshu.27075@ggnindia.dronacharya.info
 Name: Sohan Rout, Roll: 27543, Branch: IOT, Section: 3, Email: sohanrout84@gmail.com
 Name: Kartik Koundal, Roll: 27085, Branch: CSE, Section: 2, Email: koundal.k29@gmail.com
 Name: Ashmita Bhandari, Roll: 27043, Branch: CSE, Section: 1, Email: ashmitabhn07@gmail.com
@@ -14,3 +14,4 @@ Name: Tanishq Bhatnagar, Roll: 27177, Branch: CSE, Section: 3, Email: tanishqbha
 Name: Krish Jindal, Roll: 27093, Branch: CSE, Section: 2, Email: krish.27093@ggindia.dronacharya.info
 Name: Tanishq Gupta, Roll: 27547, Branch: IOT, Section: 3, Email: tanishqgupta1976@gmail.com
 Name: Deepak, Roll: 27441, Branch: CSIT, Section: 1, Email: deepaksoni2907@gmail.com
+Name: Himanshu, Roll Number: 27074, Branch: CSE, Section: 2, Email: himanshu20050118rathee@gmail.com
