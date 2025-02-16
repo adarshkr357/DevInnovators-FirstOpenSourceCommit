@@ -27,8 +27,8 @@ Name: Vansh, Roll: 27189, Branch: CSE, Section: 3, Email: vanshdhamija64@gmail.c
 Name: Nandini, Roll: 27116, Branch: CSE, Section: 2, Email: nandini3306@gmail.com
 Name: Khushi Bhardwaj, Roll: 27089, Branch: CSE, Section: 2, Email: ikhushi205@gmail.com
 <<<<<<< HEAD
-Name: Harshit Tyagi, Roll: 27508, Branch: IOT, Section: 2, Email: tyagiharshit.0005@gmail.com
 Name: Krish Jindal, Roll: 27093, Branch: CSE, Section: 2, Email: krish.27093@ggindia.dronacharya.info
 =======
 Name: Harshita Gahlot, Roll: 27272, Branch: AIML, Section: 2, Email: hgahlot216@gmail.com
 >>>>>>> 12a359664d6d7d4821664ae76e01f3bb3878a10a
+Name: Harshit Tyagi, Roll: 27508, Branch: IOT, Section: 2, Email: tyagiharshit.0005@gmail.com
