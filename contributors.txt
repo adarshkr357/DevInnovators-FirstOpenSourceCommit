@@ -28,3 +28,4 @@ Name: Khushi Bhardwaj, Roll: 27089, Branch: CSE, Section: 2, Email: ikhushi205@g
 Name: Harshita Gahlot, Roll: 27272, Branch: AIML, Section: 2, Email: hgahlot216@gmail.com
 Name: Parminder Singh, Roll: 27127, Branch: CSE, Section: 2, Email: singhparminder0602@gmail.com
 Name: Tanvi Rawat, Roll: 27180, Branch: CSE, Section: 3, Email: tanvirawat2006@gmail.com
+Name: Jeevan, Roll: 27081, Branch: CSE, Section: 2, Email: jeevanyadav9898@gmail.com
