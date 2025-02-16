@@ -14,3 +14,4 @@ Name: Tanishq Bhatnagar, Roll: 27177, Branch: CSE, Section: 3, Email: tanishqbha
 Name: Krish Jindal, Roll: 27093, Branch: CSE, Section: 2, Email: krish.27093@ggindia.dronacharya.info
 Name: Tanishq Gupta, Roll: 27547, Branch: IOT, Section: 3, Email: tanishqgupta1976@gmail.com
 Name: Deepak, Roll: 27441, Branch: CSIT, Section: 1, Email: deepaksoni2907@gmail.com
+Name: Arun Hooda, Roll: 27038, Branch: CSE, Section: 1, Email: arunhooda2005@gmail.com
