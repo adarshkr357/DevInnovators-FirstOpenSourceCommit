@@ -15,3 +15,4 @@ Name: Krish Jindal, Roll: 27093, Branch: CSE, Section: 2, Email: krish.27093@ggi
 Name: Tanishq Gupta, Roll: 27547, Branch: IOT, Section: 3, Email: tanishqgupta1976@gmail.com
 Name: Deepak, Roll: 27441, Branch: CSIT, Section: 1, Email: deepaksoni2907@gmail.com
 Name: Kartik, Roll Number: 27519, Branch: Iot, Cybersecurity and Blockchain, Section: 3, Email: kartik2005221@gmail.com
+Name: Hunny, Roll: 27279, Branch: AIML, Section: 2, Email: vatshunny0026@gmail.com
