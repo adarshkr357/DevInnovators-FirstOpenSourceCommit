@@ -23,3 +23,4 @@ Name: Chetna Sahni, Roll: 27259, Branch: AIML, Section: 1, Email: chetnasahni240
 Name: Garvit Sahni, Roll: 27268, Branch: AIML, Section: 1, Email: garvitsahni0012@gmail.com
 Name: Vansh, Roll: 27189, Branch: CSE, Section: 3, Email: vanshdhamija64@gmail.com
 Name: Nandini, Roll: 27116, Branch: CSE, Section: 2, Email: nandini3306@gmail.com
+Name: Krish, Roll: 26526, Branch:IOT, Section: 1, Email: krishgupta2521@gmail.com
