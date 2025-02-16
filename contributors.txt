@@ -16,3 +16,4 @@ Name: Tanishq Gupta, Roll: 27547, Branch: IOT, Section: 3, Email: tanishqgupta19
 Name: Deepak, Roll: 27441, Branch: CSIT, Section: 1, Email: deepaksoni2907@gmail.com
 Name: Hunny, Roll: 27279, Branch: AIML, Section: 2, Email: vatshunny0026@gmail.com
 Name: Kartik, Roll: 27519, Branch: IOT, Section: 3, Email: kartik2005221@gmail.com 
+Name: Khushi Bhardwaj, Roll: 27089, Branch: CSE, Section: 2, Email: ikhushi205@gmail.com
