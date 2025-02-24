@@ -41,6 +41,6 @@ Name: Yash Sharma, Roll: 27488, Branch: CSIT, Section: 2, Email: yash.s522020@gm
 Name: Sanya Pruthi, Roll: 27156, Branch: CSE, Section: 3, Email: sanyapruthi150706@gmail.com
 Name: Aarushi Prajapati , Roll: 27002, Branch:CSE,section: 1 , Email: arushik327@gmail.com
 Name: Rohan, Roll: 27360, Branch: AIML, Section: 3, Email: rohansingh.cyberking@gmail.com
-Name: Sarthak Rohilla, Roll: 27375, Branch: AIML, Section: 3, Email: sarthakrohilla2@gmail.com
 Name: Riya Sharma, Roll:27359, Branch:AIML, Section:3, Email:riya989166@gmail.com
 Name: Hansika Arora, Roll: 27063, Branch: CSE, Section: 1, Email: hansikaarora3053@gmail.com
+Name: Sarthak Rohilla, Roll: 27375, Branch: AIML, Section: 3, Email: sarthakrohilla2@gmail.com
