@@ -39,3 +39,4 @@ Name: Anish Samanta, Roll: 27237, Branch: AIML, Section: 1, Email: anishsamanta.
 Name: Khushi Sharma, Roll: 27520, Branch: IOT, Section: 3, Email: khushisharmaq385@gmail.com
 Name: Yash Sharma, Roll: 27488, Branch: CSIT, Section: 2, Email: yash.s522020@gmail.com 
 Name: Sanya Pruthi, Roll: 27156, Branch: CSE, Section: 3, Email: sanyapruthi150706@gmail.com
+Name: Sarthak Rohilla, Roll: 27375, Branch: AIML, Section: 3, Email: sarthakrohilla2@gmail.com
