@@ -48,3 +48,4 @@ Name: Shruti, Roll: 27381, Branch: AIML, Section: 3, Email: shrutishawal@gmail.c
 Name: Sanjit Rakshit, Roll: 27474, Branch: CSIT, Section: 2, Email: sanjitrksht@gmail.com 
 Name: Kunjan, Roll: 27299, Branch: AIML, Section: 2, Email: kunjanmalik19@gmail.com
 Name: Kritika, Roll: 27095, Branch: CSE, Section: 2, Email: kadiankritika@gmail.com 
+Name: <Aaditya Asthana>, Roll: <27211>, Branch: <AIML>, Section: <1>, Email: <aadityaasthana724@gmail.com>
