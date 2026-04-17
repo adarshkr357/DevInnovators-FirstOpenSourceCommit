@@ -6,8 +6,8 @@ Welcome to the DevInnovators First Open Source Commit project! This document out
 
 1. **Entry Format:**  
    Every entry must include:
-   - **Name**
-   - **Roll**
+   - **poorvik
+   - **Roll*
    - **Branch**
    - **Section**
    - **Email**
